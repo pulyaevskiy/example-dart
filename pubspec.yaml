@@ -1,0 +1,11 @@
+name: 'example_dart'
+version: 0.0.1
+description: Code coverage example.
+#author: First Last <email@example.com>
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dev_dependencies:
+  test: any
